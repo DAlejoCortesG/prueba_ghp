@@ -6,4 +6,10 @@ body{
   display: flex;
   justify-content: center;
   height: 150px;
+  width: calc(80% -100px);
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: antiquewhite;
 }
+
