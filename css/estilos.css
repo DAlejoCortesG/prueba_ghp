@@ -1,0 +1,9 @@
+body{
+  background-color: beige;
+}
+
+.prueba_github{
+  display: flex;
+  justify-content: center;
+  height: 150px;
+}
